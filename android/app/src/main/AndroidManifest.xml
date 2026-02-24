@@ -17,7 +17,7 @@
             
             <meta-data
                 android:name="flutterEmbedding"
-                android:value="2" />
+                android:value="3" />
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
